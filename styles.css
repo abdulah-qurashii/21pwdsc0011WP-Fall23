@@ -1,0 +1,156 @@
+/* Add your custom CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    margin: 20px;
+}
+
+.intro {
+    text-align: center;
+}
+
+.values ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.values li {
+    margin-bottom: 10px;
+}
+
+.featured-posts {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.post {
+    flex: 1;
+    background-color: #fff;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.post h3 {
+    margin-top: 0;
+}
+
+.post p {
+    color: #555;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.social-icons {
+    list-style: none;
+    padding: 0;
+}
+
+.social-icons {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.social-icons {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    transition: transform 0.3s; /* Add a smooth transition effect */
+}
+
+.social-icons img {
+    width: 30px; /* Adjust the size as needed */
+    border-radius: 50%; /* Optional: Add a circular border for a more elegant look */
+}
+
+.social-icons a:hover {
+    transform: scale(1.1); /* Optional: Add a slight hover effect */
+}
+.footer {
+    text-align: center; /* Aligns the content (including icons) to the center */
+  }
+  
+  .social-icons {
+    display: inline-block; /* Makes the icons display in a single line */
+  }
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+.image-container {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: aut300;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px; /* Optional: Adds rounded corners to the image */
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
